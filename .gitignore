@@ -1,13 +1,13 @@
-# Құпия деректер
+# Qupiya derekter
 .env
 
-# Тәуелділіктер
+# Taueldilikter
 node_modules/
 __pycache__/
 
-# Жүйелік файлдар
+# Zhuielik faildar
 .DS_Store
 Thumbs.db
 
-# Барлық .log файлдары
+# Barlyq .log faildary
 *.log
