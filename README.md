@@ -1,3 +1,4 @@
-#Men turaly
+# Menin profilim
 Menin atym Adel.
-Bul joba Git uyrenu ushin jasaldy.
+Men studentpin.
+Men Git uyrenip zhatyrmyn.
